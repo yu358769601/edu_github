@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "staffAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5.983333333333333,
+  "sample": 60,
+  "speed": 0.75,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -141,
+            -34
+          ],
+          "motionPath": [
+            [
+              291,
+              -43,
+              27,
+              -98,
+              338,
+              -33
+            ],
+            [
+              474,
+              17,
+              442,
+              -1,
+              570,
+              71
+            ]
+          ]
+        },
+        {
+          "frame": 5.983333333333333,
+          "value": [
+            569,
+            172
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

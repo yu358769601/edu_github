@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "16126312-6817-4ec5-9b77-02b02b0e59c2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 687,
+  "height": 2000,
+  "platformSettings": {},
+  "subMetas": {
+    "MAP_08_第四完版__08": {
+      "ver": "1.0.4",
+      "uuid": "47dd5e69-2649-4cae-bf1b-981d04332634",
+      "rawTextureUuid": "16126312-6817-4ec5-9b77-02b02b0e59c2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 687,
+      "height": 2000,
+      "rawWidth": 687,
+      "rawHeight": 2000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "06efce92-6c33-4d89-acc1-18afc42092e4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1080,
+  "platformSettings": {},
+  "subMetas": {
+    "P3_認識設施_輪椅": {
+      "ver": "1.0.4",
+      "uuid": "85dee188-f3a1-487a-9faa-ae4cc6135b12",
+      "rawTextureUuid": "06efce92-6c33-4d89-acc1-18afc42092e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

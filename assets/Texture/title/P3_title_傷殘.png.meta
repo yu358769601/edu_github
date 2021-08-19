@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7a16ae81-3495-4e88-9356-cbcb52e36208",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 405,
+  "height": 207,
+  "platformSettings": {},
+  "subMetas": {
+    "P3_title_傷殘": {
+      "ver": "1.0.4",
+      "uuid": "74800cf9-64dd-4a28-a81f-15b542f83daa",
+      "rawTextureUuid": "7a16ae81-3495-4e88-9356-cbcb52e36208",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 405,
+      "height": 207,
+      "rawWidth": 405,
+      "rawHeight": 207,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

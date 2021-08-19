@@ -1,0 +1,6 @@
+brake   刹车
+happy  成功
+hit        撞到陷阱
+idle      待机
+run      移动
+sad      感到彷徨

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "afe8408f-a0de-4373-91d5-86d3ea3a205a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1080,
+  "platformSettings": {},
+  "subMetas": {
+    "BusCockpit_foreground": {
+      "ver": "1.0.4",
+      "uuid": "65bcc6ee-66b9-4db6-a179-79a07255fa6d",
+      "rawTextureUuid": "afe8408f-a0de-4373-91d5-86d3ea3a205a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 37,
+      "offsetY": -29,
+      "trimX": 259,
+      "trimY": 269,
+      "width": 1476,
+      "height": 600,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

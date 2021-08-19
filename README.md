@@ -1,2 +1,2 @@
-# edu
-edu
+# hello-world
+Hello world new project template.

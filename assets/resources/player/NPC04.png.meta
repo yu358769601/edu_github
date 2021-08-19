@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "33f33374-4fb4-4747-b8d4-ea6b2336072f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 172,
+  "height": 279,
+  "platformSettings": {},
+  "subMetas": {
+    "NPC04": {
+      "ver": "1.0.4",
+      "uuid": "4ef83dfa-7fc3-4a7d-a6b5-056935922e16",
+      "rawTextureUuid": "33f33374-4fb4-4747-b8d4-ea6b2336072f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -23,
+      "trimX": 36,
+      "trimY": 50,
+      "width": 101,
+      "height": 225,
+      "rawWidth": 172,
+      "rawHeight": 279,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

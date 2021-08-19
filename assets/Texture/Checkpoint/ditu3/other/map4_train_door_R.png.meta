@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c7d508d2-03f2-4efb-b572-2956deb54a41",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 80,
+  "height": 247,
+  "platformSettings": {},
+  "subMetas": {
+    "map4_train_door_R": {
+      "ver": "1.0.4",
+      "uuid": "bea74009-3ec1-4f6d-a808-d822cffb98a2",
+      "rawTextureUuid": "c7d508d2-03f2-4efb-b572-2956deb54a41",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 80,
+      "height": 247,
+      "rawWidth": 80,
+      "rawHeight": 247,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

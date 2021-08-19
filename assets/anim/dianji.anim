@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dianji",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8aa7ab1e-02d8-46e9-a6b1-ab774f526dee"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "2164ffbe-9e89-4081-a0d7-7ff4dedf7b85"
+            }
+          },
+          {
+            "frame": 0.7833333333333333,
+            "value": {
+              "__uuid__": "2164ffbe-9e89-4081-a0d7-7ff4dedf7b85"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

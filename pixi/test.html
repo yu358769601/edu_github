@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.bootcss.com/pixi.js/5.2.1/pixi.min.js"></script>
+</head>
+<body>
+<script>
+    //判断浏览器渲染引擎
+    const type = PIXI.utils.isWebGLSupported() ? "WebGL" : "canvas";
+    //console.log(type);//WebGL
+    PIXI.utils.sayHello(type);//PixiJS 5.2.1 - WebGL - http://www.pixijs.com/
+
+
+
+</script>
+</body>
+</html>

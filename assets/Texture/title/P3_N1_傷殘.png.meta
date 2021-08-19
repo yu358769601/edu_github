@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "18206e9f-19c9-47d3-9fd0-8f6b26eba5ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 252,
+  "height": 358,
+  "platformSettings": {},
+  "subMetas": {
+    "P3_N1_傷殘": {
+      "ver": "1.0.4",
+      "uuid": "fc0bc750-c652-44e6-8971-2b861ce0e69f",
+      "rawTextureUuid": "18206e9f-19c9-47d3-9fd0-8f6b26eba5ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 252,
+      "height": 358,
+      "rawWidth": 252,
+      "rawHeight": 358,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
